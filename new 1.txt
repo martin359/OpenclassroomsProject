@@ -1,0 +1,48 @@
+Un gestionnaire de versions est un programme qui permet aux développeurs de conserver un historique des modifications et des versions de tous leurs fichiers.
+
+L’action de contrôler les versions est aussi appelée "versioning" en anglais, vous pourrez entendre les deux termes.
+
+Cet outil a donc trois grandes fonctionnalités :
+
+    Revenir à une version précédente de votre code en cas de problème.
+
+    Suivre l’évolution de votre code étape par étape.
+
+    Travailler à plusieurs sans risquer de supprimer les modifications des autres collaborateurs. 
+	
+Git et GitHub sont deux choses différentes.
+
+Git est un gestionnaire de versions. Vous l’utiliserez pour créer un dépôt local et gérer les versions de vos fichiers.
+
+GitHub est un service en ligne qui va héberger votre dépôt. Dans ce cas, on parle de dépôt distant puisqu’il n’est pas stocké sur votre machine.
+
+
+Un dépôt est comme un dossier qui conserve un historique des versions et des modifications d’un projet. Il peut être local ou distant.
+
+Dans la documentation en ligne ou en milieu professionnel, on parle souvent de repository, qui est la traduction anglaise du terme “dépôt”.
+
+Ainsi, les dépôts sont utiles si :
+
+    vous souhaitez conserver un historique de votre projet ;
+
+    vous travaillez à plusieurs ;
+
+    vous souhaitez collaborer à des projets open source ;
+
+    vous devez retrouver par qui a été faite chaque modification ;
+
+    vous voulez savoir pourquoi chaque modification a eu lieu.
+
+En résumé
+
+    Un dépôt est comme un dossier qui conserve un historique des versions et des modifications d’un projet. Il est essentiel pour travailler en équipe ou collaborer à un projet open source.
+
+    Un dépôt local est l’endroit où l’on stocke, sur sa machine, une copie d’un projet, ses différentes versions et l’historique des modifications.
+
+    Un dépôt distant est une version dématérialisée du dépôt local, que ce soit sur Internet ou sur un réseau. Il permet de centraliser le travail des développeurs dans un projet collectif.
+
+    Il existe plusieurs services en ligne pour héberger un dépôt distant, GitHub étant l’un des plus populaires.
+	
+	
+
+	
